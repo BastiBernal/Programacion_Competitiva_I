@@ -1,3 +1,2 @@
 # Programacion-Competitiva-I
-# Programacion_Competitiva_I
-# Programacion_Competitiva_I
+Ejercicios del curso Programación Competitiva UdeC 2024-02
